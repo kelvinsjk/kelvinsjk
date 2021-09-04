@@ -6,7 +6,7 @@
 ## My current projects
 
 - [Math Atlas](https://math-atlas.vercel.app) built in Sapper. Containing notes, questions and quizzes
-- [3D Vectors](https:/3d-vectors.vercel.app) built in Sveltekit. Applet to solve 3d vectors (lines and planes) questions
+- [3D Vectors](https://3d-vectors.vercel.app) built in Sveltekit. Applet to solve 3d vectors (lines and planes) questions
 - [Math Bounty](https://math-bounty.vercel.app) build in Astro. A superset of past examination questions
 - [math-edu and math-edu-plus](https://github.com/kelvinsjk/math-edu) Javascript libraries to help compute and display mathematics
 
