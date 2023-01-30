@@ -6,11 +6,11 @@
 ## My current projects
 
 - [Mathlified](https://github.com/kelvinsjk/mathlified): A monorepo of various explorations into displaying Mathematics on the web.
-- - [Mathlified framework](https://www.npmjs.com/package/vite-plugin-sveltekit-tex). Vite plugin facilitating the creation of web+print content (via SvelteKit and LaTeX) using a unified codebase.
-- - [Mathlifier](https://www.npmjs.com/package/mathlifier). A KaTeX wrapper.
-- - [Mathlifier2](https://www.npmjs.com/package/mathlifier2). Used in conjuction with Mathlifier in the Mathlified framework to facilitate a write-once, run-anywhere experience for web+print.
-- - [Svelte Math](https://svelte-math.vercel.app/) Exploration of the different methods to show math in Svelte/SvelteKit.
-- - [MDsveX Math Starter](https://mdsvex-math-starter.vercel.app/) Starter repo for integrating math (via KaTeX) in MDsveX.
+  - [Mathlified framework](https://www.npmjs.com/package/vite-plugin-sveltekit-tex). Vite plugin facilitating the creation of web+print content (via SvelteKit and LaTeX) using a unified codebase.
+  - [Mathlifier](https://www.npmjs.com/package/mathlifier). A KaTeX wrapper.
+  - [Mathlifier2](https://www.npmjs.com/package/mathlifier2). Used in conjuction with Mathlifier in the Mathlified framework to facilitate a write-once, run-anywhere experience for web+print.
+  - [Svelte Math](https://svelte-math.vercel.app/) Exploration of the different methods to show math in Svelte/SvelteKit.
+  - [MDsveX Math Starter](https://mdsvex-math-starter.vercel.app/) Starter repo for integrating math (via KaTeX) in MDsveX.
 - [Mathlify](https://github.com/kelvinsjk/mathlify): A library to compute and display mathematics.
 
 ## Past projects
