@@ -12,13 +12,13 @@
   - [Svelte Math](https://svelte-math.vercel.app/) Exploration of the different methods to show math in Svelte/SvelteKit.
   - [MDsveX Math Starter](https://mdsvex-math-starter.vercel.app/) Starter repo for integrating math (via KaTeX) in MDsveX.
 - [Mathlify](https://github.com/kelvinsjk/mathlify): A library to compute and display mathematics.
+- [Math Pro](https://math-pro.vercel.app) built in SvelteKit. Variations of past examination questions + interactive core concept practice.
 
 ## Past projects
 
 The following are projects in the past that are still useful but aren't receiving as many updates, either because they are relatively "complete" or because the ideas are being incorporated into one of the newer projects above.
 
 - [3D Vectors](https://3d-vectors.vercel.app) built in SvelteKit. Applet to solve 3d vectors (lines and planes) questions.
-- [Math Pro](https://math-pro.vercel.app) built in SvelteKit. Variations of past examination questions + interactive core concept practice.
 - [Math Repo](https://math-repo.vercel.app) built in SvelteKit. A repository of solutions to past Singapore A Levels H2 Math examination questions.
 - [Math Depot](https://math-repo.vercel.app) built in SvelteKit. A repository of solutions to past Singapore O Levels Additional Math examination questions.
 - [Math Atlas](https://math-atlas.vercel.app) built in Sapper. Containing notes, questions and quizzes.
