@@ -15,7 +15,7 @@
 - [Mathlify](https://github.com/kelvinsjk/mathlify): A computer algebra system to help create mathematical content typically at high school/beginning college level. Perform computations and get LaTeX output while writing idiomatic code similar to our thought process.
 - [Math Pro](https://math-pro.vercel.app) built in SvelteKit. Variations of past examination questions + interactive core concept practice.
 - [Math Repo](https://math-repo.vercel.app) built in SvelteKit. A repository of solutions to past Singapore A Levels H2 Math examination questions.
-- [Mathlify-rust] The Mathlify CAS written in rust
+- [Mathlify-rust](https:://github.com/kelvinsjk/mathlify-rust) The Mathlify CAS written in rust
 
 ## Past projects
 
