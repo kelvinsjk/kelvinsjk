@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics (combinatorics and graph theory), mathematics education (typically at the high school level), and the development of mathematical content in a digital age.
 - 💞️ I’m looking to collaborate on projects on Svelte/Sveltekit, in additional to my own projects below
 - 📫 How to reach me: [kelvinsjk@gmail.com](mailto:kelvinsjk@gmail.com)
-- 🌐 I blog on [kelvin.mathlify.com](kelvin.mathlify.com)
+- 🌐 I blog on [kelvin.mathlify.com](https://kelvin.mathlify.com)
 
 ## My current projects
 
